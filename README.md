@@ -12,6 +12,8 @@
   - return the ciphertext
 - Meanwhile, a python USB listener would monitor the usb cable of the PC carrying out the Python Server
 - The listener will receive 1/0 when the the client encryption algorithm started/stopped
+
+> This repo also provides testing material for Bad Power Bank Research. :-P
   
 ## How does these code work
 - First, please check the required environment (Python3.7/Android 10.0 SDK 29/libusb) and install the Android Client apk into your phone
